@@ -1,0 +1,14 @@
+ADMIN SETUP (Netlify + Decap CMS)
+
+1) Netlify → Site settings → Identity → Enable Identity
+2) Identity → Registration → Invite only (recommended)
+3) Identity → Services → Enable Git Gateway
+4) Redeploy
+
+Admin URL:
+- https://bayan-properties.netlify.app/admin
+
+Data file:
+- content/listings.json
+Images uploaded:
+- assets/img/uploads/
